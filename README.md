@@ -237,6 +237,11 @@ Tested and working on:
 - Older browsers: IE11 (with limitations)
 
 ---
+## Developer
 
-**Version 1.0.0** | Last Updated: 2024
-Built for students by developers who understand academic challenges.
+Name: Harishini K
+Role: Full Stack Development Intern Candidate
+College: Manakula Vinayagar Institute of Technology
+
+**Version 1.0.0** | Last Updated: June 2026
+Created by Harishini K for Decodelabs Full Stack internship.
